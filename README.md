@@ -56,4 +56,4 @@ Rita Effiong Edet
 
 Aspiring Data Analyst passionate about using data to generate actionable insights through Python, SQL, Excel, and Power BI.
 
-Connect with me on LinkedIn!
+Connect with me on LinkedIn!www.linkedin.com/in/rita-edet
